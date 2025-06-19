@@ -60,6 +60,6 @@ triton==3.1.0 ; python_full_version < '3.13' and platform_machine == 'x86_64' an
 trl==0.12.1
 typing-extensions==4.12.2
 tzdata==2024.2
-urllib3==2.2.3
+urllib3==2.5.0
 xxhash==3.5.0
 yarl==1.18.3
